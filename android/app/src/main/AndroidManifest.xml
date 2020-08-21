@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.teramuza.rnboilerplate">
+  package="com.teramuza.moapa">
 
     <uses-permission android:name="android.permission.INTERNET" />
 

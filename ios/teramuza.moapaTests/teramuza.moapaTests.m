@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface teramuza.rnBoilerPlateTests : XCTestCase
+@interface teramuza.moapaTests : XCTestCase
 
 @end
 
-@implementation teramuza.rnBoilerPlateTests
+@implementation teramuza.moapaTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
